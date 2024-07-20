@@ -38,4 +38,4 @@ if st.button("Here is Humidity at 3pm"):
     result = my_dtr.predict(np.array([[ap_9am,at_9am,awd_9am,aws_9am,mwd_9am,mws_9am,ra_9am,rd_9am,rh_9am]]))
     st.text(result[0])
 
-st.text("This Model Was Made By Nishant Doma Sawaimoon")
+st.text("This Model Was Made By Avinash Sahebrao Kale")
