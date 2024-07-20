@@ -1,2 +1,2 @@
+https://decision-tree-model-ktxfqu3dvtjiyqtxwpg8yf.streamlit.app
 
-https://decisiontree2.streamlit.app/
